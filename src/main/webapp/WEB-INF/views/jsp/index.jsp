@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 , 000000000</h3>
+			<h3>Contact @ +91-8296242028</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Synergy Universal......</p>
+		<p>&copy; @ Synergy Universal......</p>
 	</footer>
 </div>
 
