@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91 9876543210 </h3>
+			<h2>Welcome To Synergy Universal..Hyderabad</h2>
+			<h3>Contact @ +91-8522826975 ,+91 xxxxxxxxx...</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; @ Synergy Universal......</p>
+		<p>&copy; @ SYNERGY UNIVERSAL......</p>
 	</footer>
 </div>
 
