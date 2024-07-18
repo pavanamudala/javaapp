@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>WELCOME TO SYNERGY UNIVERSAL.........</h2>
-			<h3>Contact @ +91-8522826975 ,+91 xxxxxxxxx...</h3>
+			<h3>CONTACT @ +91-8522826975 ,+91 xxxxxxxxx...</h3>
 		</div>	
 	</div>
 
